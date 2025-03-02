@@ -1,2 +1,6 @@
 .env
+build
+dist
+venv
+mcq_gen.egg-info
 
